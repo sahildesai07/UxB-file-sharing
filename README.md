@@ -147,7 +147,7 @@ Join Our [Telegram Group](https://www.telegram.dog/ultroidofficial_chat) For Sup
 Report Bugs, Give Feature Requests There..   
 
 ### 🎉 Credits
-
+Thanks to ultroidxTeam for Modified this repo
 Thanks to Dan for his awesome library. [Libary](https://github.com/pyrogram/pyrogram)
 Our support group members.
 
