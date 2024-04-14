@@ -83,8 +83,8 @@ stats - checking your bot uptime
 
 ### 🛠️ Variables
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
+* `API_HASH` Your API Hash from my.telegram.org [tutorial video](https://youtu.be/gZQJ-yTMkEo).
+* `APP_ID` Your API ID from my.telegram.org [tutorial video](https://youtu.be/gZQJ-yTMkEo).
 * `TG_BOT_TOKEN` Your bot token from @BotFather
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
@@ -98,19 +98,19 @@ stats - checking your bot uptime
 * `FORCESUB_CHANNEL3` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
-### Extra Variables
-
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
-* `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_stats'>fillings</a>
-* `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
-
 ### Token Variables
 
 * `IS_VERIFY` = Default : "True" (if you want off : False )
 * `SHORTLINK_URL` = Your shortner Url ( ex. "api.shareus.io")
 * `SHORTLINK_API` = Your shortner API (ex. "PUIAQBIFrydvLhIzAOeGV8yZppu2")
 * `VERIFY_EXPIRE` = ( ex. 86400)) # Add time in seconds
+
+### Extra Variables
+
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_stats'>fillings</a>
+* `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
