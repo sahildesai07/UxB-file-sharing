@@ -53,19 +53,19 @@ For a detailed deployment guide, watch [this tutorial video](https://youtu.be/7j
 
 Click the button below to deploy the bot on Koyeb:
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sahildesai07/file-sharing-token-bot&branch=main&name=file-sharing-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sahildesai07/UxB-file-sharing&branch=main&name=file-sharing-bot)
 
 ### Deploy on Your VPS
 
 ```bash
-git clone https://github.com/sahildesai07/file-sharing-token-bot
+git clone https://github.com/sahildesai07/UxB-file-sharing
 cd file-sharing-token-bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
 
-🔧 Admin Commands
+### 🔧 Admin Commands
 
 ```
 start - start the bot or get posts
@@ -81,7 +81,7 @@ broadcast - broadcast any messages to bot users
 stats - checking your bot uptime
 ```
 
-🛠️ Variables
+### 🛠️ Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
@@ -91,7 +91,7 @@ stats - checking your bot uptime
 * `DB_URI ` Your mongo db url [tutorial video](https://youtu.be/qFB0cFqiyOM).
 * `DB_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MSG` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
+* `START_MSG` Optional: start message of bot, use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCESUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCESUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
@@ -100,9 +100,9 @@ stats - checking your bot uptime
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/sahildesai07/UxB-file-sharing/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 ### Token Variables
