@@ -147,11 +147,13 @@ Join Our [Telegram Group](https://www.telegram.dog/ultroidofficial_chat) For Sup
 Report Bugs, Give Feature Requests There..   
 
 ### 🎉 Credits
-Thanks to ultroidxTeam for Modified this repo
-Thanks to Dan for his awesome library. [Libary](https://github.com/pyrogram/pyrogram)
+
+- Thanks to ultroidxTeam for Modified this repo
+- Thanks to Dan for his awesome library. [Libary](https://github.com/pyrogram/pyrogram)
 Our support group members.
 
 ### 📝 License
+
 GNU GPLv3 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html) 
 
 [FILE-SHARING-BOT](https://github.com/7thofficial/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
@@ -160,9 +162,6 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
-
    **Star this Repo if you Liked it ⭐⭐⭐**
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
