@@ -17,7 +17,7 @@ async def useless(_, message: Message):
     if USER_REPLY_TEXT in message.text:
         keyboard = InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Visit Website", url="https://example.com")]
+                [InlineKeyboardButton("Don't miss Use", url="https://ultoridxTeam)]
             ]
         )
         await message.reply_text(USER_REPLY_TEXT, reply_markup=keyboard)
