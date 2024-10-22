@@ -29,7 +29,7 @@ CHANNEL = os.environ.get("CHANNEL", "ULTROID_OFFICIAL") # WITHOUR @
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002186167040"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "5851158054"))
+#OWNER_ID = int(os.environ.get("OWNER_ID", "5851158054"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
