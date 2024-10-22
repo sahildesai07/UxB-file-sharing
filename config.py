@@ -18,6 +18,13 @@ APP_ID = int(os.environ.get("APP_ID", "20697474"))
 #Your API Hash from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "1acf41c146d578a57741ab0760208eb4")
 
+BAN = int(os.environ.get("BAN", "1198543450")) #Owner user id
+OWNER = os.environ.get("OWNER", "PhDLust") #Owner username
+OWNER_ID = int(os.environ.get("OWNER_ID", "7131513396")) #Owner user id
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "ULTROIDOFFICIAL_CHAT") # WITHOUR @
+CHANNEL = os.environ.get("CHANNEL", "ULTROID_OFFICIAL") # WITHOUR @
+
+
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002186167040"))
 
